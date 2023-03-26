@@ -10,4 +10,5 @@ I really enjoyed learning about GIS last semester and am looking forward to lear
 
 # Portfolio
 [Summer BrewFest Demo](/summerbrewfestdemo.md)
+<br>
 [Custom Map Assignment](/custommapassignment.md)
