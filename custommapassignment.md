@@ -6,7 +6,7 @@ For this assignment, I chose the nonprofit Local Government Academy, based in Pi
 A key component of Local Government Academy’s programming is their Municipal Intern Programming, which they are recruiting interns for right now. To assist in that goal, the consultant will design a map identifying the municipalities in Allegheny and surrounding counties looking for interns through Local Government Academy’s MIP. Therefore, the relevant screenshots show Pittsburgh, Allegheny County, and the whole Southwestern Pennsylvania region. 
 
 ## Color Palette
-![LGA Color Palette](LGA Color Palette.png)
+![LGA Color Palette] (LGA Color Palette.png)
 
 ## JSON Code Sample
 [
