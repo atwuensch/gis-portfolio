@@ -8,6 +8,16 @@ A key component of Local Government Academy’s programming is their Municipal I
 ## Color Palette
 ![LGA Color Palette](LGA Color Palette.png)
 
+## Map Zoom Extents
+### Pittsburgh
+![LGA Custom Map](LGA Custom Map.png)
+
+### Allegheny County
+![Allegheny County Custom Map](Allegheny County Custom Map.png)
+
+### Southwestern Pennsylvania
+![Southwestern PA Custom Map](Southwestern PA Custom Map.png)
+
 ## JSON Code Sample
 [
   {
