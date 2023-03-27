@@ -18,5 +18,8 @@ A key component of Local Government Academy’s programming is their Municipal I
 ### Southwestern Pennsylvania
 ![Southwestern PA Custom Map](Southwestern PA Custom Map.png)
 
+## Lookup Table
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7WR5UQFz1MfbGTjqbdH85sLAns338FvCb7IUCVDB0qxiGmxOQ4Ji5aL-stoI63j0VPaP7pAsnldRM/pubhtml?widget=true&amp;headers=false"></iframe>
+
 ## JSON Code Sample
 [LGA Custom Map](/LGA Custom Map)
